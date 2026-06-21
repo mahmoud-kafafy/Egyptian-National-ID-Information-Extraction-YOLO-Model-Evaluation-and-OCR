@@ -1,0 +1,7 @@
+Model,Precision,Recall,mAP50,mAP50-95,Training Time (min),Model Size (MB)
+yolo11s_withoutaug,0.903,0.912,0.947,0.619,7.13,18.3
+yolov8s_withoutaug,0.942,0.884,0.941,0.631,6.73,21.48
+yolov5s_withoutaug,0.94,0.838,0.936,0.592,6.79,17.67
+yolo11s_aug,0.895,0.767,0.87,0.529,7.14,18.3
+yolov5s_aug,0.918,0.821,0.898,0.557,6.72,17.67
+yolov8s_aug,0.888,0.688,0.779,0.476,6.82,21.48
