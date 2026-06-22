@@ -20,3 +20,6 @@ Dataset classes:
 - Neighborhood
 - Number
 - State
+
+
+The dataset was used to train and evaluate YOLOv5s, YOLOv8s, and YOLO11s models for field detection and information extraction.
